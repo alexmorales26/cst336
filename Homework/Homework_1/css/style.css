@@ -1,0 +1,96 @@
+header, nav,main{
+    text-align: center;
+    color: white;
+}
+nav a{
+    padding: 15px;
+    padding-bottom: 4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: white;
+}
+#owl
+{
+    float:right;
+}
+nav a:hover 
+        {
+            border-bottom:2px black solid;
+            font-size:2em;
+            transition:.2s;
+        }
+footer
+        {
+        
+            text-align: center;
+            clear:left;
+            color: white;
+        
+        }
+
+#IntroText
+{
+    text-align: left;
+  clear: left;
+}
+#code
+{
+    display: block;
+    margin: auto;
+}
+#plug
+{
+    color: blue;
+}
+#caption
+{
+    color: white;
+    text-decoration: none;
+}
+#OStext
+{
+    float: right;
+    color:white;
+    text-align: left;
+}
+#aside
+{
+    vertical-align: top;
+    float: right;
+}
+#binaryCaption
+{
+    text-align: left;
+    color: white;
+    border:hidden;
+}
+#OsVideo
+{
+    float: left;
+    vertical-align: top;
+}
+#progVideo
+{
+    float: right;
+    vertical-align: top;
+}
+#periodtable
+{
+    float: left;
+    vertical-align: top;
+}
+.progCap,#periodCaption,#osmessage,#virustxt
+{
+    text-align: left;
+    color: white;
+}
+h1
+{
+    font-family: 'Russo One', sans-serif;
+    font-size: 4em;
+            margin-bottom: 0px;
+}
+#networkvid
+{
+vertical-align: middle;
+}
