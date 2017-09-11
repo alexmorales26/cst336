@@ -1,0 +1,81 @@
+[08-Sep-2017 19:29:11 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 12
+[08-Sep-2017 19:29:42 UTC] PHP Parse error:  syntax error, unexpected '");"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 12
+[08-Sep-2017 19:29:43 UTC] PHP Parse error:  syntax error, unexpected '");"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 12
+[08-Sep-2017 19:29:45 UTC] PHP Parse error:  syntax error, unexpected '");"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 12
+[08-Sep-2017 19:37:09 UTC] PHP Parse error:  syntax error, unexpected 'randomcolor' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 28
+[08-Sep-2017 19:37:09 UTC] PHP Parse error:  syntax error, unexpected 'randomcolor' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 28
+[08-Sep-2017 19:38:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 32
+[08-Sep-2017 19:38:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:38:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:38:52 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 32
+[08-Sep-2017 19:38:52 UTC] PHP Stack trace:
+[08-Sep-2017 19:38:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:38:53 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 32
+[08-Sep-2017 19:38:53 UTC] PHP Stack trace:
+[08-Sep-2017 19:38:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:38:54 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 32
+[08-Sep-2017 19:38:54 UTC] PHP Stack trace:
+[08-Sep-2017 19:38:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:39:22 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:39:22 UTC] PHP Stack trace:
+[08-Sep-2017 19:39:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:39:22 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:39:22 UTC] PHP Stack trace:
+[08-Sep-2017 19:39:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:39:23 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:39:23 UTC] PHP Stack trace:
+[08-Sep-2017 19:39:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:39:33 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:39:33 UTC] PHP Stack trace:
+[08-Sep-2017 19:39:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:39:34 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:39:34 UTC] PHP Stack trace:
+[08-Sep-2017 19:39:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:40:46 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:40:46 UTC] PHP Stack trace:
+[08-Sep-2017 19:40:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:40:47 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:40:47 UTC] PHP Stack trace:
+[08-Sep-2017 19:40:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:40:47 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:40:47 UTC] PHP Stack trace:
+[08-Sep-2017 19:40:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:04 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:04 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:05 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:05 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:05 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:05 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:05 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:05 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:06 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:06 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:06 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:06 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:06 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:06 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:06 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:06 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:06 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:06 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:06 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:06 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:07 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:07 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:07 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:07 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[08-Sep-2017 19:42:07 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
+[08-Sep-2017 19:42:07 UTC] PHP Stack trace:
+[08-Sep-2017 19:42:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
