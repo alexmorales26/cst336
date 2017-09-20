@@ -1,0 +1,36 @@
+#title
+{
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    vertical-align: top;
+    text-align: center;
+    font-size: 72px;
+}
+#body
+{
+    background-color: black;
+}
+#image{
+    vertical-align: middle;
+    position: relative;
+    right: 350px;
+    left: 325px;
+}
+#controller{
+    position: absolute;
+    vertical-align: middle;
+    left: 150px;
+    right: 200px;
+}
+#text
+{
+    position: absolute;
+    font-size: 48px;
+    text-align: center;
+    font-weight: bold;
+    top:325px;
+    left: 475px;
+    right: 500px;
+    bottom: 400px;
+    
+}

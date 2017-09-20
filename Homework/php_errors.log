@@ -1,0 +1,379 @@
+[18-Sep-2017 22:30:39 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:30:39 UTC] PHP Stack trace:
+[18-Sep-2017 22:30:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:30:39 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:30:39 UTC] PHP   3. rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:30:39 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:30:39 UTC] PHP Stack trace:
+[18-Sep-2017 22:30:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:30:39 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:30:39 UTC] PHP   3. rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:30:39 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:30:39 UTC] PHP Stack trace:
+[18-Sep-2017 22:30:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:30:39 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:30:39 UTC] PHP   3. rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:38:44 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:38:44 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:44 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:44 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:38:44 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:38:44 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:44 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:44 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:38:44 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:38:44 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:44 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:44 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:38:46 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:38:46 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:46 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:46 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:38:46 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:38:46 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:46 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:46 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:38:46 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:38:46 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:46 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:46 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:38:47 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:38:47 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:47 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:47 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:38:47 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:38:47 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:47 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:47 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:38:47 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:38:47 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:47 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:47 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:38:48 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:38:48 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:48 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:48 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:38:48 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:38:48 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:48 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:48 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:38:48 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:38:48 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:48 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:48 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:38:48 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:38:48 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:48 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:48 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:38:48 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:38:48 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:48 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:48 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:38:48 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:38:48 UTC] PHP Stack trace:
+[18-Sep-2017 22:38:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:38:48 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:38:48 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:39:17 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 11
+[18-Sep-2017 22:39:17 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:17 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:17 UTC] PHP   3. rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:11
+[18-Sep-2017 22:39:17 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:39:17 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:17 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:17 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:39:17 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:39:17 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:17 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:17 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:39:17 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:39:17 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:17 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:17 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:39:18 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 11
+[18-Sep-2017 22:39:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:18 UTC] PHP   3. rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:11
+[18-Sep-2017 22:39:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:39:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:39:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:39:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:39:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:39:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:39:19 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 11
+[18-Sep-2017 22:39:19 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:19 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:19 UTC] PHP   3. rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:11
+[18-Sep-2017 22:39:19 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:39:19 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:19 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:19 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:39:19 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:39:19 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:19 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:19 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:39:19 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:39:19 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:19 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:19 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:39:20 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 11
+[18-Sep-2017 22:39:20 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:20 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:20 UTC] PHP   3. rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:11
+[18-Sep-2017 22:39:20 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:39:20 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:20 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:20 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:39:20 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:39:20 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:20 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:20 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:39:20 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:39:20 UTC] PHP Stack trace:
+[18-Sep-2017 22:39:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:39:20 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:39:20 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:41:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:41:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:41:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:41:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:41:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:41:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:41:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:41:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:41:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:41:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:41:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:41:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:41:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:41:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:41:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:41:23 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:41:23 UTC] PHP Stack trace:
+[18-Sep-2017 22:41:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:41:23 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:41:23 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:41:23 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:41:23 UTC] PHP Stack trace:
+[18-Sep-2017 22:41:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:41:23 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:41:23 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:41:23 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:41:23 UTC] PHP Stack trace:
+[18-Sep-2017 22:41:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:41:23 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:41:23 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:42:13 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:42:13 UTC] PHP Stack trace:
+[18-Sep-2017 22:42:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:42:13 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:42:13 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:42:13 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:42:13 UTC] PHP Stack trace:
+[18-Sep-2017 22:42:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:42:13 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:42:13 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:42:13 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:42:13 UTC] PHP Stack trace:
+[18-Sep-2017 22:42:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:42:13 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:42:13 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:42:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:42:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:42:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:42:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:42:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:42:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:42:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:42:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:42:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:42:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:42:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:42:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:42:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:42:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:42:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:42:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:42:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:42:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:42:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:42:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:42:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:42:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:42:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:42:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:43:04 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:43:04 UTC] PHP Stack trace:
+[18-Sep-2017 22:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:43:04 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:43:04 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:43:04 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:43:04 UTC] PHP Stack trace:
+[18-Sep-2017 22:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:43:04 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:43:04 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:43:04 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:43:04 UTC] PHP Stack trace:
+[18-Sep-2017 22:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:43:04 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:43:04 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:43:04 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:43:04 UTC] PHP Stack trace:
+[18-Sep-2017 22:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:43:04 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:43:04 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:43:04 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:43:04 UTC] PHP Stack trace:
+[18-Sep-2017 22:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:43:04 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:43:04 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:43:04 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:43:04 UTC] PHP Stack trace:
+[18-Sep-2017 22:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:43:04 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:43:04 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:43:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:43:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:43:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:43:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:43:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:43:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:43:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:43:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:43:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:43:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:43:18 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:43:18 UTC] PHP Stack trace:
+[18-Sep-2017 22:43:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:43:18 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:43:18 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:45:15 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:45:15 UTC] PHP Stack trace:
+[18-Sep-2017 22:45:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:45:15 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:45:15 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:45:15 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:45:15 UTC] PHP Stack trace:
+[18-Sep-2017 22:45:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:45:15 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:45:15 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:45:15 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:45:15 UTC] PHP Stack trace:
+[18-Sep-2017 22:45:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:45:15 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:45:15 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:45:15 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 18
+[18-Sep-2017 22:45:15 UTC] PHP Stack trace:
+[18-Sep-2017 22:45:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:45:15 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:45:15 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:18
+[18-Sep-2017 22:46:29 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 18
+[18-Sep-2017 22:46:29 UTC] PHP Stack trace:
+[18-Sep-2017 22:46:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:46:29 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:46:29 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:18
+[18-Sep-2017 22:46:55 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:46:55 UTC] PHP Stack trace:
+[18-Sep-2017 22:46:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:46:55 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:46:55 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:46:55 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:46:55 UTC] PHP Stack trace:
+[18-Sep-2017 22:46:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:46:55 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:46:55 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:46:55 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:46:55 UTC] PHP Stack trace:
+[18-Sep-2017 22:46:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:46:55 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:46:55 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[18-Sep-2017 22:46:56 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 12
+[18-Sep-2017 22:46:56 UTC] PHP Stack trace:
+[18-Sep-2017 22:46:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:46:56 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:46:56 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:12
+[18-Sep-2017 22:46:56 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 13
+[18-Sep-2017 22:46:56 UTC] PHP Stack trace:
+[18-Sep-2017 22:46:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:46:56 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:46:56 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:13
+[18-Sep-2017 22:46:56 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 14
+[18-Sep-2017 22:46:56 UTC] PHP Stack trace:
+[18-Sep-2017 22:46:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[18-Sep-2017 22:46:56 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:9
+[18-Sep-2017 22:46:56 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:14
+[19-Sep-2017 03:36:28 UTC] PHP Fatal error:  Call to undefined function bacgroundDisplay() in /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php on line 17
+[19-Sep-2017 03:36:28 UTC] PHP Stack trace:
+[19-Sep-2017 03:36:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[19-Sep-2017 03:36:32 UTC] PHP Fatal error:  Call to undefined function bacgroundDisplay() in /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php on line 17
+[19-Sep-2017 03:36:32 UTC] PHP Stack trace:
+[19-Sep-2017 03:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[19-Sep-2017 03:36:36 UTC] PHP Fatal error:  Call to undefined function bacgroundDisplay() in /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php on line 17
+[19-Sep-2017 03:36:36 UTC] PHP Stack trace:
+[19-Sep-2017 03:36:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[19-Sep-2017 03:38:35 UTC] PHP Fatal error:  Call to undefined function bacgroundDisplay() in /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php on line 19
+[19-Sep-2017 03:38:35 UTC] PHP Stack trace:
+[19-Sep-2017 03:38:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[19-Sep-2017 19:45:58 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 33
+[19-Sep-2017 19:45:58 UTC] PHP Stack trace:
+[19-Sep-2017 19:45:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[19-Sep-2017 19:45:58 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:27
+[19-Sep-2017 19:45:58 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:33
+[19-Sep-2017 19:45:58 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php on line 34
+[19-Sep-2017 19:45:58 UTC] PHP Stack trace:
+[19-Sep-2017 19:45:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[19-Sep-2017 19:45:58 UTC] PHP   2. Generator() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:27
+[19-Sep-2017 19:45:58 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/Homework/Homework_2/inc/functions.php:34
+[20-Sep-2017 02:54:04 UTC] PHP Fatal error:  Call to undefined function hello() in /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php on line 34
+[20-Sep-2017 02:54:04 UTC] PHP Stack trace:
+[20-Sep-2017 02:54:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[20-Sep-2017 02:54:23 UTC] PHP Fatal error:  Call to undefined function hello() in /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php on line 34
+[20-Sep-2017 02:54:23 UTC] PHP Stack trace:
+[20-Sep-2017 02:54:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[20-Sep-2017 02:54:25 UTC] PHP Fatal error:  Call to undefined function hello() in /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php on line 34
+[20-Sep-2017 02:54:25 UTC] PHP Stack trace:
+[20-Sep-2017 02:54:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0
+[20-Sep-2017 02:54:28 UTC] PHP Fatal error:  Call to undefined function hello() in /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php on line 34
+[20-Sep-2017 02:54:28 UTC] PHP Stack trace:
+[20-Sep-2017 02:54:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homework/Homework_2/index.php:0

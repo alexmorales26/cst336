@@ -79,3 +79,6 @@
 [08-Sep-2017 19:42:07 UTC] PHP Fatal error:  Call to undefined function getrandomcolor() in /home/ubuntu/workspace/cst336/practice/randomColor.php on line 33
 [08-Sep-2017 19:42:07 UTC] PHP Stack trace:
 [08-Sep-2017 19:42:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/randomColor.php:0
+[13-Sep-2017 19:44:46 UTC] PHP Fatal error:  Unsupported operand types in /home/ubuntu/workspace/cst336/practice/php_arrays.php on line 56
+[13-Sep-2017 19:44:46 UTC] PHP Stack trace:
+[13-Sep-2017 19:44:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/php_arrays.php:0
