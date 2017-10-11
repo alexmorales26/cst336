@@ -1,0 +1,68 @@
+.Headers{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 72px;
+    text-align: center;
+    background-color: darkgray ;
+    border:3px solid black;
+    color: white;
+}
+form{
+    display: inline;
+}
+#titlo{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 48px;
+    text-align: center;
+     color: white;
+}
+.Cprof{
+ vertical-align: middle;
+}
+.subheadings{
+     font-family: 'Fjalla One', sans-serif;
+    font-size: 32px;
+     color: white;
+    padding-left: 25px;
+}
+.container{
+   vertical-align: middle;
+}
+.form-check-label{
+    color: white;
+    vertical-align: middle;
+}
+.form-check{
+    border:2px solid darkgray;
+    display: inline;
+    background-color:darkgray;
+}
+.form-control
+{
+    width: 50%;
+}
+.HeadersProf{
+     font-family: 'Fjalla One', sans-serif;
+    font-size: 72px;
+    text-align: center;
+    color: white;
+        background-color: darkgray ;
+    border:3px solid darkgray;
+    
+   
+}
+#innerBody{
+  
+  color: white;
+    border:3px solid darkgray;
+    background-color: darkgray;
+   margin-left: 230px;
+   margin-right: 230px;
+}
+#otter
+{
+    border-radius: 30px;
+  overflow: hidden;
+}
+.user{
+    text-align: left;
+}
