@@ -20,7 +20,7 @@ function displayDevices(){
   global $conn;
   $sql = "SELECT * FROM tc_device WHERE 1";
   if(isset($_GET['submit'])){
-    $namedParameters=array();
+        $namedParameters=array();
      if (!empty($_GET['deviceName'])) {
             
             //The following query allows SQL injection due to the single quotes
@@ -37,17 +37,29 @@ function displayDevices(){
             //$sql .= " AND deviceName LIKE '%" . $_GET['deviceName'] . "%'";
   
             $sql .= " AND deviceType = :dType"; //using named parameters
-            $namedParameters[':dType'] =   $_GET['deviceType'] ;
+           $namedParameters[':dType'] =   $_GET['deviceType'] ;
 
          }     
          
          if (isset($_GET['available'])) {
            //  $sql.=" ORDER BY deviceName ASC";
-             $sql.=" AND WHERE status='a'";
+             $sql.=" AND status LIKE 'A'";
              // $namedParameters[':status'] = "A" ;
          }
+         $radiobtn=$_GET['orderBy'];
+        if(isset($_GET['orderBy']) && $radiobtn=='price')
+         {
+           $sql.=" ORDER BY price";
+         }
+        
   } // end of if isset 
+  else {
+      $sql.=" ORDER BY deviceName";
+  }
+   
     //If user types a deviceName
+      //$dName = $_GET['deviceName'];
+     // $sql.=" AND deviceName LIKE '%'$dName'%'";
      //   "AND deviceName LIKE '%$_GET['deviceName']%'";
     //if user selects device type
       //  "AND deviceType = '$_GET['deviceType']";
@@ -61,20 +73,28 @@ function displayDevices(){
            
          }
 }
+
 ?>
 <!DOCTYPE html>
 <html>
     <head>
         <title>Lab 5: Device Search </title>
+        <style>
+          @import url("css/styles.css");
+          body{
+            background:#8585ad;
+          }
+        </style>
     </head>
     <body>
-    <h1> Technology Center: Checkout System </h1>
-    
+      <div id= "headerTop">
+    <h1 > Technology Center: Checkout System </h1>
+    <div id=input>
     <form>
       Device:  <input type="text" name="deviceName" placeholder="Device Name"/>
       Type:
       <select name="deviceType">
-        <option>Select One</option>
+        <option value="">Select One</option>
         {
          <?=getDeviceTypes()?>
         }
@@ -85,13 +105,19 @@ function displayDevices(){
             Order by:
             <input type="radio" name="orderBy" id="orderByName" value="name"/> 
              <label for="orderByName"> Name </label>
-            <input type="radio" name="orderBy" id="orderByPrice" value="price"/> 
+            <input type="radio" name="orderBy" id="orderByPrice" value="price" /> 
              <label for="orderByPrice"> Price </label>
       
         <input type="submit" value="Search!" name="submit"/>
     </form>
+    </div>
+    </div>
     <hr>
+    <div id="displayDevices">
     <?=displayDevices()?>
+    </div>
+    <div id="windowframe">
     <iframe name="checkoutHistory" width="400" height="400"></iframe>
+    </div>
     </body>
 </html>
