@@ -586,3 +586,383 @@ Stack trace:
 #1 /home/ubuntu/workspace/cst336/Labs/Lab_5/index.php(120): displayDevices()
 #2 {main}
   thrown in /home/ubuntu/workspace/cst336/Labs/Lab_5/index.php on line 70
+[18-Oct-2017 19:56:31 UTC] PHP Warning:  include(../../dbconnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php on line 3
+[18-Oct-2017 19:56:31 UTC] PHP Stack trace:
+[18-Oct-2017 19:56:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php:0
+[18-Oct-2017 19:56:31 UTC] PHP Warning:  include(): Failed opening '../../dbconnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php on line 3
+[18-Oct-2017 19:56:31 UTC] PHP Stack trace:
+[18-Oct-2017 19:56:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php:0
+[18-Oct-2017 19:56:31 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php on line 4
+[18-Oct-2017 19:56:31 UTC] PHP Stack trace:
+[18-Oct-2017 19:56:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php:0
+[18-Oct-2017 20:27:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName ASC' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:27:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName ASC' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:27:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName ASC' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:27:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName ASC' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:27:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName ASC' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:27:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName ASC' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:27:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName ASC' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:28:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName ASC' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:28:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:28:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:30:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:30:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:30:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:30:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:30:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:30:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:30:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:30:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:30:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:30:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:30:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:31:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:33:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:33:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:33:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:33:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:33:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:33:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:33:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(10): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(28): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 10
+[18-Oct-2017 20:38:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(33): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[18-Oct-2017 20:40:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(33): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[18-Oct-2017 20:40:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(33): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[18-Oct-2017 20:41:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(33): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[18-Oct-2017 20:41:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(33): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[25-Oct-2017 19:24:02 UTC] PHP Warning:  Missing argument 1 for getDataBaseConnection(), called in /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php on line 5 and defined in /home/ubuntu/workspace/cst336/dbConnection.php on line 3
+[25-Oct-2017 19:24:02 UTC] PHP Stack trace:
+[25-Oct-2017 19:24:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php:0
+[25-Oct-2017 19:24:02 UTC] PHP   2. getDataBaseConnection() /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php:5
+[25-Oct-2017 19:24:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected' in /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php on line 16
+[25-Oct-2017 19:25:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'tc_admin'' in /home/ubuntu/workspace/cst336/dbConnection.php:10
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/dbConnection.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/loginProcess.php(5): getDataBaseConnection('tc_admin')
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/dbConnection.php on line 10
+[25-Oct-2017 19:42:26 UTC] PHP Warning:  Missing argument 1 for getDataBaseConnection(), called in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 11 and defined in /home/ubuntu/workspace/cst336/dbConnection.php on line 3
+[25-Oct-2017 19:42:26 UTC] PHP Stack trace:
+[25-Oct-2017 19:42:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:0
+[25-Oct-2017 19:42:26 UTC] PHP   2. displayUsers() /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:39
+[25-Oct-2017 19:42:26 UTC] PHP   3. getDataBaseConnection() /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:11
+[25-Oct-2017 19:42:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(39): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[25-Oct-2017 19:42:43 UTC] PHP Warning:  Missing argument 1 for getDataBaseConnection(), called in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 11 and defined in /home/ubuntu/workspace/cst336/dbConnection.php on line 3
+[25-Oct-2017 19:42:43 UTC] PHP Stack trace:
+[25-Oct-2017 19:42:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:0
+[25-Oct-2017 19:42:43 UTC] PHP   2. displayUsers() /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:39
+[25-Oct-2017 19:42:43 UTC] PHP   3. getDataBaseConnection() /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:11
+[25-Oct-2017 19:42:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(39): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[25-Oct-2017 19:42:46 UTC] PHP Warning:  Missing argument 1 for getDataBaseConnection(), called in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 11 and defined in /home/ubuntu/workspace/cst336/dbConnection.php on line 3
+[25-Oct-2017 19:42:46 UTC] PHP Stack trace:
+[25-Oct-2017 19:42:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:0
+[25-Oct-2017 19:42:46 UTC] PHP   2. displayUsers() /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:39
+[25-Oct-2017 19:42:46 UTC] PHP   3. getDataBaseConnection() /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:11
+[25-Oct-2017 19:42:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(39): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[25-Oct-2017 19:42:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(39): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[25-Oct-2017 19:43:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(39): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[25-Oct-2017 19:43:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(39): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[25-Oct-2017 19:43:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/addUser.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/addUser.php(9): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/addUser.php(40): getDepartmentinfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/addUser.php on line 9
+[25-Oct-2017 19:43:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/addUser.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/addUser.php(9): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/addUser.php(41): getDepartmentinfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/addUser.php on line 9
+[25-Oct-2017 20:06:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(39): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[25-Oct-2017 20:06:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(39): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[25-Oct-2017 20:20:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tc_user' ORDER BY lastName' at line 1' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php(36): displayUsers()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 15
+[25-Oct-2017 20:34:20 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 22
+[25-Oct-2017 20:34:20 UTC] PHP Stack trace:
+[25-Oct-2017 20:34:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:0
+[25-Oct-2017 20:34:20 UTC] PHP   2. getUserInfo() /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:29
+[25-Oct-2017 20:41:03 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 22
+[25-Oct-2017 20:41:03 UTC] PHP Stack trace:
+[25-Oct-2017 20:41:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:0
+[25-Oct-2017 20:41:03 UTC] PHP   2. getUserInfo() /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:29
+[25-Oct-2017 20:41:04 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 22
+[25-Oct-2017 20:41:04 UTC] PHP Stack trace:
+[25-Oct-2017 20:41:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:0
+[25-Oct-2017 20:41:04 UTC] PHP   2. getUserInfo() /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:29
+[25-Oct-2017 20:41:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 22
+[25-Oct-2017 20:41:05 UTC] PHP Stack trace:
+[25-Oct-2017 20:41:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:0
+[25-Oct-2017 20:41:05 UTC] PHP   2. getUserInfo() /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:29
+[25-Oct-2017 20:41:08 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 22
+[25-Oct-2017 20:41:08 UTC] PHP Stack trace:
+[25-Oct-2017 20:41:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:0
+[25-Oct-2017 20:41:08 UTC] PHP   2. getUserInfo() /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:29
+[29-Oct-2017 23:36:34 UTC] PHP Parse error:  syntax error, unexpected 'button' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/Labs/Lab_6/admin.php on line 44
+[30-Oct-2017 00:12:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:37
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php(37): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 37
+[30-Oct-2017 00:17:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:42
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 42
+[30-Oct-2017 00:17:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:42
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 42
+[30-Oct-2017 00:17:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:42
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 42
+[30-Oct-2017 00:18:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:42
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 42
+[30-Oct-2017 00:18:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:42
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 42
+[30-Oct-2017 00:21:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:42
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 42
+[30-Oct-2017 00:22:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:42
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 42
+[30-Oct-2017 00:24:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:42
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 42
+[30-Oct-2017 00:24:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'departmentId' in 'field list'' in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php:42
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Labs/Lab_6/updateUser.php on line 42
