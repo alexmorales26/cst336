@@ -66,23 +66,23 @@ if (isset($_GET['addUserForm'])){
     <legend > Add  New Users </legend>
         <form>
         First Name: <input type="text" name="firstName" required /><br/>
-        Last Name: <input type="text" name="lastName"/><br/>
-         Email: <input type="text" name="email"/> <br>
-      University ID: <input type="text" name="universityId"/> <br/>
-      Phone: <input type="text" name="phone"/><br/>
-      Gender: <input type="radio" name="gender" value="F" id="genderF"/>
+        Last Name: <input type="text" name="lastName" required/><br/>
+         Email: <input type="text" name="email" required/> <br>
+      University ID: <input type="text" name="universityId" required/> <br/>
+      Phone: <input type="text" name="phone" required/><br/>
+      Gender: <input type="radio" name="gender" value="F" id="genderF" required/>
               <label for="genderF">Female</label>
-              <input type="radio" name="gender" value="M" id="genderM"/>
+              <input type="radio" name="gender" value="M" id="genderM" required/>
               <label for="genderM">Male</label>
               <br/>
-        Role: <select name="role">
+        Role: <select name="role" required>
                 <option value="">Select One</option>
                 <option>Faculty</option>
                 <option>Student</option>
                 <option>Staff</option>
                 </select>
                 <br/>
-    Department: <select name="deptId">
+    Department: <select name="deptId" required>
                 <option value="">Select One</option>
                 <?php
                 $departments=getDepartmentinfo();
