@@ -1,0 +1,81 @@
+h1{
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background: #f2f2f2 !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow-x: hidden;
+}
+.container{
+    text-align: left;
+}
+.caret {
+    border-left: 2px solid transparent;
+    border-right: 2px solid transparent;
+    border-top: 2px solid #000000;
+}
+
+.input-group {
+    background-color: #222 !important;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    background-color: #222 !important;
+}
+.dropdown-menu > li > a {
+    background-color: #222 !important;
+    border-color: #080808 !important;
+    color: gray !important;
+}
+
+.dropdown-menu > li > a:hover {
+    color: white !important;
+}
+
+.btn-link:hover {
+    text-decoration: none !important;
+}
+
+.form-control, .btn-default {
+    background-color: #444444 !important;
+    border-color: #222 !important;
+    color: #C7C7CD  !important;
+}
+
+::-webkit-input-placeholder {
+    color: #C7C7CD !important;
+}
+
+ul {
+    display: inline;
+    list-style: none;
+}
+#titleMovie {
+    text-decoration: none !important;
+    color: black;
+}
+#checkOutTitle{
+    text-align: center ;
+    color:black;
+    vertical-align: middle;
+}
+#checkoutTable {
+    border: 2px solid black;
+    text-align: center !important;
+    font-size: 1.2em;
+}
+table{
+    width: 50%;
+    height: 50%;
+}
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #D3D1D0;
+}
+.inline{
+    display: inline !important;
+}
