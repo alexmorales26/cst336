@@ -10,40 +10,31 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
         
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
     </head>
     <body>
-
-
-    <div class='container text-center'>
-        <header>
-           <h1>Hangman</h1>
-        </header>
-         <br/>
-        <div id="word">
+        <div class='container text-center'>
+            <header>
+                <h1>Hangman</h1>
+            </header>
+            
+            <div id="word"></div>
+            <button class="hint btn  btn-danger btn-xs">HINT</button>
+            <br/><br>
+            <div id="letters"></div>
+            <div id="won">
+                <h2>You Won!</h2>
+                <button class="replayBtn btn btn-success">Play Again</button>
+            </div>
+            <div id="lost">
+                <h2>You Lost!</h2>
+                <button class="replayBtn btn btn-warning">Play Again</button>
+            </div>
+            
+            <div id="man">
+                <img src="img/stick_0.png" class="manImg" id="hangImg">
+            </div>
         </div>
-        <div id="letters"></div>
-        <br/>
-            <input type="text" id ="letterBox">
-
-            <button id="letterBtn">Submit</button>
-        <div id="man">
-           <img src="img/stick_0.png" id="hangImg">
-        </div>
-    </div>
-    
-    <div id="won">
-        <h2>You Won!</h2>
-        <button class="replayBtn btn btn-success">Play Again</button>
-    </div>
-    <div id="lost">
-        <h2>You Lost!</h2>
-        <button class="replayBtn btn btn-warning">Play Again</button>
-    </div>
-    
-    
-    
-    
-<script src="js/hangman.js"></script>
+        
+    <script src='js/hangman.js'></script>
     </body>
 </html>
