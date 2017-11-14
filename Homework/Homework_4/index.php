@@ -4,9 +4,7 @@
 		<script type="text/javascript">
 			var gameScreen;
 			var output;
-
 			var ship;
-
 			// declare enemies array
 			var enemies = new Array();
 			var gameTimer;
@@ -163,6 +161,7 @@
 				}
 				// bullet movement implementation
 				var b= bullets.children;
+				var end =false;
 				for(var i=0; i < b.length;i++){
 					var newY = parseInt(b[i].style.top)-b[i].speed;
 					if(newY<0){
@@ -242,11 +241,56 @@
 				position: absolute;
 				z-index: 1;
 			}
-
+			body{
+				background-image:url("img/space.jpg");;
+				display: block;
+			    margin: auto;
+			    width: 40%;
+			    overflow-x:hidden;
+			}
+			h1{
+				font-family: 'Press Start 2P', cursive;
+				text-align:center;
+				color:white;
+				font-size:4em;
+			}
+			#buddy{
+			position:absolute;
+			bottom: 150px;
+			right: 0;
+			width: 200px;
+			height: 100px;
+			}
+			#btn{
+				display: block;
+			    margin: auto;
+			    width: 40%;
+			}
 		</style>
+		<link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 	</head>
 	<body onload="init()">
+		<header>
+			<h1>SPACE INVADERS</h1>
+		</header>
 		<div id="gameScreen"></div>
-		<div id="output">debugger</div>
+		<div id="output">
+			<br>
+			<button type="button" id='btn'class="btn btn-success">Play Again</button>
+			<script>
+				$("#btn").on("click",function(){
+				location.reload();	
+				});
+			</script>
+		</div>
+		<div id='buddy'>
+			<script type="text/javascript">
+					var elem = document.createElement("IMG");
+					elem.src='img/buddy_verified.png';
+					document.getElementById("buddy").appendChild(elem);
+			</script>
+		</div>
 	</body>
 </html>
