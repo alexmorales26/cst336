@@ -245,7 +245,7 @@
 				background-image:url("img/space.jpg");;
 				display: block;
 			    margin: auto;
-			    width: 40%;
+			    width: 50%;
 			    overflow-x:hidden;
 			}
 			h1{
