@@ -1,6 +1,6 @@
 <?php
 
-    function getDataBaseConnection($opt)
+    function getDataBaseConnection()
     {
         $host=/*'localhost';*/'us-cdbr-iron-east-05.cleardb.net'; // cloud 9
         $dbname=/*$opt;*/'heroku_a7fc18d9d1666df'; // table name

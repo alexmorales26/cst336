@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color:black !important;
+    position:relative;
+    margin:auto;
+    position:relative;
+    border:none;
+}
+form{
+    border:none;
+    margin:auto;
+    color:black;
+    position:relative;
+    display: block;
+	margin: auto;
+	width: 40%;
+	background-color: white;
+}
+body{
+    margin: auto;
+    background-color: #c2c2d6 !important;
+    position: relative;
+}
+legend{
+    margin:auto;
+    color:black !important;
+    position: relative;
+    
+}
