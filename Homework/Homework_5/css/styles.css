@@ -1,0 +1,36 @@
+body{
+    background-color: lightgray !important; 
+}
+header{
+    background-image: url("ecommerce.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#TITLE{
+    text-align: center;
+    font-family: 'Arvo', serif;
+}
+#forms{
+    margin: auto;
+    width: 20%;
+    position:relative;
+    font-family: 'Arvo', serif;
+}
+#game{
+    margin: auto;
+    width:30% !important;
+    position: relative;
+    font-family: 'Arvo', serif;
+}
+#techno{
+       margin: auto;
+    width:30% !important;
+    position: relative;
+    font-family: 'Arvo', serif;
+}
+#else{
+       margin: auto;
+    width:30% !important;
+    position: relative;
+    font-family: 'Arvo', serif;
+}

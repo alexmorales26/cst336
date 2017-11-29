@@ -388,3 +388,38 @@
 [10-Oct-2017 00:17:12 UTC] PHP Parse error:  syntax error, unexpected ''keyword'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/Homework/Homework_3/index.php on line 76
 [10-Oct-2017 17:55:14 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/ubuntu/workspace/cst336/Homework/Homework_3/profile.php on line 38
 [11-Oct-2017 07:00:39 UTC] PHP Parse error:  syntax error, unexpected 'submit' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/Homework/Homework_3/profile.php on line 7
+[29-Nov-2017 08:30:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '121' for key 'PRIMARY'' in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php(11): PDOStatement->execute(NULL)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php on line 11
+[29-Nov-2017 08:30:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '121' for key 'PRIMARY'' in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php(11): PDOStatement->execute(NULL)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php on line 11
+[29-Nov-2017 08:30:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '121' for key 'PRIMARY'' in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php(11): PDOStatement->execute(NULL)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php on line 11
+[29-Nov-2017 08:32:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '121' for key 'PRIMARY'' in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php(11): PDOStatement->execute(NULL)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php on line 11
+[29-Nov-2017 08:32:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '121' for key 'PRIMARY'' in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php(11): PDOStatement->execute(NULL)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php on line 11
+[29-Nov-2017 08:32:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '121' for key 'PRIMARY'' in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php on line 11
+[29-Nov-2017 08:35:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '121' for key 'PRIMARY'' in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Homework/Homework_5/addToDB.php on line 11
