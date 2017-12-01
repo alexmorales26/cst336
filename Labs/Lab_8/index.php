@@ -27,7 +27,17 @@ function checkPassword(){
             dataType: "json",
             data: { "zip": $("#zip").val()},
             success: function(data,status) {
-              
+               $("#zipper").html("");
+                 // $("#zipper").html("");
+               if (data) {
+                   
+                  // alert("USERNAME AVAILABLE!");
+                  $("#zipper").html("<strong>found</strong>");
+               } else {
+                   
+                  // alert ("username already taken!");
+                   $("#zipper").html("<strong>not found </strong>");
+               }
           //   alert(data.city);
             $("#city").html(data.city);
              $("#lat").html(data.latitude);
@@ -120,6 +130,7 @@ function checkPassword(){
             Email:       <input type="text" class="form-control"required><br> 
             Phone Number:<input type="text" class="form-control"required><br>
             Zip Code:    <input type="text" id="zip" onchange="getCity()" maxlength="5" size="5" class="form-control"required><br>
+            <div id="zipper"></div>
             City: <span id="city" class="form-control"required></span> 
             <br>
             Latitude: <span id="lat" class="form-control"></span> 
