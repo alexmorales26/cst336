@@ -4,7 +4,7 @@
 ?>
             
         <!-- add Carousel component -->
-        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+        <div id="carouselExampleControls" style="top:50%;z-index:5;display:inline-block;"class="carousel slide" data-ride="carousel">
   <div class="carousel-inner" role="listbox">
          <div class="carousel-item active">
       <img class=" img-fluid" src="img/alex.jpg">

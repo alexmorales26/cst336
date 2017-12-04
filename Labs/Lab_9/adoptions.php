@@ -16,10 +16,11 @@
   <script>
     $(document).ready(function(){
        
-        $("#petInfoModal").modal("show");
-        $("#petInfo").html("<img src='img/loading.gif'>");
+        
         
        $(".petLink").click(function(){
+         $("#petInfoModal").modal("show");
+        $("#petInfo").html("<img src='img/loading.gif'>");
            $.ajax({
 
                 type: "GET",
@@ -29,7 +30,7 @@
                 success: function(data,status) {
                // alert(data);
                 $("#petInfo").html("Age: "+data.age+"<br>"+
-                  " <img src='img/" + data.pictureURL + "'><br >" + +
+                  " <img src='img/" + data.pictureURL + "'><br >" +
                 "Description: "+data.description);
                
                 $("#petNameModalLabel").html(data.name);
@@ -58,10 +59,7 @@
             echo"<hr><br>";
         }
 ?>
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
-  Launch demo modal
-</button>
+
 
 <!-- Modal -->
 <div class="modal fade" id="petInfoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
