@@ -16,6 +16,9 @@
   <script>
     $(document).ready(function(){
        
+        $("#petInfoModal").modal("show");
+        $("#petInfo").html("<img src='img/loading.gif'>");
+        
        $(".petLink").click(function(){
            $.ajax({
 
@@ -28,6 +31,8 @@
                 $("#petInfo").html("Age: "+data.age+"<br>"+
                   " <img src='img/" + data.pictureURL + "'><br >" + +
                 "Description: "+data.description);
+               
+                $("#petNameModalLabel").html(data.name);
                 },
                 complete: function(data,status) { //optional, used for debugging purposes
                 //alert(status);
@@ -53,9 +58,30 @@
             echo"<hr><br>";
         }
 ?>
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+  Launch demo modal
+</button>
 
-<div id="petInfo"></div>
-        
+<!-- Modal -->
+<div class="modal fade" id="petInfoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="petNameModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div id="petInfo"></div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
 <?php
     include 'inc/footer.php';
 ?>
