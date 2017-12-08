@@ -6,16 +6,6 @@ if(!isset($_SESSION['username'])) // validates that the admin is logged in
 {
     header("Location: index.php");
 }
-function getDepartmentinfo()
-{
-    global $conn;
-//print_r($conn);
-$sql =" SELECT deptName,departmentId FROM `tc_department` ORDER BY deptName";
-$stmt =$conn->prepare($sql);
-$stmt->execute();
- $records =$stmt ->fetchAll(PDO::FETCH_ASSOC); // expecting only one record   
- return $records;
-}
 function getUserInfo($userId)
 {
     global $conn;

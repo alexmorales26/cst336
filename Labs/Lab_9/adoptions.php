@@ -21,6 +21,7 @@
        $(".petLink").click(function(){
          $("#petInfoModal").modal("show");
         $("#petInfo").html("<img src='img/loading.gif'>");
+        
            $.ajax({
 
                 type: "GET",

@@ -90,3 +90,442 @@ Stack trace:
 #0 /home/ubuntu/workspace/cst336/practice/SQLJoins.php(18): PDOStatement->execute()
 #1 {main}
   thrown in /home/ubuntu/workspace/cst336/practice/SQLJoins.php on line 18
+[05-Dec-2017 09:20:24 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/dbAdmin.php on line 2
+[05-Dec-2017 09:20:24 UTC] PHP Stack trace:
+[05-Dec-2017 09:20:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/dbAdmin.php:0
+[05-Dec-2017 09:20:24 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/dbAdmin.php on line 2
+[05-Dec-2017 09:20:24 UTC] PHP Stack trace:
+[05-Dec-2017 09:20:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/dbAdmin.php:0
+[05-Dec-2017 09:20:24 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/dbAdmin.php on line 4
+[05-Dec-2017 09:20:24 UTC] PHP Stack trace:
+[05-Dec-2017 09:20:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/dbAdmin.php:0
+[05-Dec-2017 09:20:42 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/admin.php on line 2
+[05-Dec-2017 09:20:42 UTC] PHP Stack trace:
+[05-Dec-2017 09:20:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/admin.php:0
+[05-Dec-2017 09:20:42 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/admin.php on line 2
+[05-Dec-2017 09:20:42 UTC] PHP Stack trace:
+[05-Dec-2017 09:20:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/admin.php:0
+[06-Dec-2017 08:28:28 UTC] PHP Warning:  include(adminHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 2
+[06-Dec-2017 08:28:28 UTC] PHP Stack trace:
+[06-Dec-2017 08:28:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 08:28:28 UTC] PHP Warning:  include(): Failed opening 'adminHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 2
+[06-Dec-2017 08:28:28 UTC] PHP Stack trace:
+[06-Dec-2017 08:28:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:19 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 19
+[06-Dec-2017 09:07:19 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:19 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 19
+[06-Dec-2017 09:07:19 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:19 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 20
+[06-Dec-2017 09:07:19 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:37 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 19
+[06-Dec-2017 09:07:37 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:37 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 19
+[06-Dec-2017 09:07:37 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:37 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 20
+[06-Dec-2017 09:07:37 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:41 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 19
+[06-Dec-2017 09:07:41 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:41 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 19
+[06-Dec-2017 09:07:41 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:41 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 20
+[06-Dec-2017 09:07:41 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:48 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 19
+[06-Dec-2017 09:07:48 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:48 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 19
+[06-Dec-2017 09:07:48 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:48 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 20
+[06-Dec-2017 09:07:48 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:50 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 19
+[06-Dec-2017 09:07:50 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:50 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 19
+[06-Dec-2017 09:07:50 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:07:50 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 20
+[06-Dec-2017 09:07:50 UTC] PHP Stack trace:
+[06-Dec-2017 09:07:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/delete.php:0
+[06-Dec-2017 09:08:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/Final_Project/delete.php:24
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/delete.php(24): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 24
+[06-Dec-2017 09:08:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/Final_Project/delete.php:24
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/delete.php(24): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 24
+[06-Dec-2017 20:53:24 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 10
+[06-Dec-2017 20:53:24 UTC] PHP Stack trace:
+[06-Dec-2017 20:53:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 20:53:24 UTC] PHP   2. getDepartmentinfo() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:89
+[06-Dec-2017 20:53:24 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 10
+[06-Dec-2017 20:53:24 UTC] PHP Stack trace:
+[06-Dec-2017 20:53:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 20:53:24 UTC] PHP   2. getDepartmentinfo() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:89
+[06-Dec-2017 20:53:24 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 11
+[06-Dec-2017 20:53:24 UTC] PHP Stack trace:
+[06-Dec-2017 20:53:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 20:53:24 UTC] PHP   2. getDepartmentinfo() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:89
+[06-Dec-2017 20:56:49 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 20:56:49 UTC] PHP Stack trace:
+[06-Dec-2017 20:56:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 20:56:52 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 20:56:52 UTC] PHP Stack trace:
+[06-Dec-2017 20:56:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 20:56:53 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 20:56:53 UTC] PHP Stack trace:
+[06-Dec-2017 20:56:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 20:56:54 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 20:56:54 UTC] PHP Stack trace:
+[06-Dec-2017 20:56:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 20:56:55 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 20:56:55 UTC] PHP Stack trace:
+[06-Dec-2017 20:56:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 20:56:56 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 20:56:56 UTC] PHP Stack trace:
+[06-Dec-2017 20:56:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 20:57:03 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 20:57:03 UTC] PHP Stack trace:
+[06-Dec-2017 20:57:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 20:57:56 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 20:57:56 UTC] PHP Stack trace:
+[06-Dec-2017 20:57:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 21:00:00 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 21:00:00 UTC] PHP Stack trace:
+[06-Dec-2017 21:00:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 21:00:06 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 21:00:06 UTC] PHP Stack trace:
+[06-Dec-2017 21:00:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 21:01:33 UTC] PHP Warning:  include(inc/admin.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 2
+[06-Dec-2017 21:01:33 UTC] PHP Stack trace:
+[06-Dec-2017 21:01:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 21:01:33 UTC] PHP Warning:  include(): Failed opening 'inc/admin.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 2
+[06-Dec-2017 21:01:33 UTC] PHP Stack trace:
+[06-Dec-2017 21:01:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 21:01:33 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 21:01:33 UTC] PHP Stack trace:
+[06-Dec-2017 21:01:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 21:01:42 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 21:01:42 UTC] PHP Stack trace:
+[06-Dec-2017 21:01:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 21:02:04 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 90
+[06-Dec-2017 21:02:04 UTC] PHP Stack trace:
+[06-Dec-2017 21:02:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 22:39:36 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 89
+[06-Dec-2017 22:39:36 UTC] PHP Stack trace:
+[06-Dec-2017 22:39:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 22:40:08 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 88
+[06-Dec-2017 22:40:08 UTC] PHP Stack trace:
+[06-Dec-2017 22:40:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 22:40:19 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 88
+[06-Dec-2017 22:40:19 UTC] PHP Stack trace:
+[06-Dec-2017 22:40:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 22:40:42 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 88
+[06-Dec-2017 22:40:42 UTC] PHP Stack trace:
+[06-Dec-2017 22:40:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 22:41:01 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 88
+[06-Dec-2017 22:41:01 UTC] PHP Stack trace:
+[06-Dec-2017 22:41:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[06-Dec-2017 22:47:57 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 88
+[06-Dec-2017 22:47:57 UTC] PHP Stack trace:
+[06-Dec-2017 22:47:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 01:05:23 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 88
+[07-Dec-2017 01:05:23 UTC] PHP Stack trace:
+[07-Dec-2017 01:05:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 01:05:29 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 88
+[07-Dec-2017 01:05:29 UTC] PHP Stack trace:
+[07-Dec-2017 01:05:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 01:11:23 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 88
+[07-Dec-2017 01:11:23 UTC] PHP Stack trace:
+[07-Dec-2017 01:11:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 01:30:19 UTC] PHP Fatal error:  Call to undefined function getDepartmentinfo() in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 82
+[07-Dec-2017 01:30:19 UTC] PHP Stack trace:
+[07-Dec-2017 01:30:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 02:48:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home/ubuntu/workspace/cst336/Final_Project/addUser.php:29
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/addUser.php(29): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 29
+[07-Dec-2017 02:48:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'firstName' cannot be null' in /home/ubuntu/workspace/cst336/Final_Project/addUser.php:29
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/addUser.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 29
+[07-Dec-2017 05:10:16 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 44
+[07-Dec-2017 05:10:16 UTC] PHP Stack trace:
+[07-Dec-2017 05:10:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 05:11:20 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 44
+[07-Dec-2017 05:11:20 UTC] PHP Stack trace:
+[07-Dec-2017 05:11:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 05:11:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 44
+[07-Dec-2017 05:11:37 UTC] PHP Stack trace:
+[07-Dec-2017 05:11:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 05:22:14 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 44
+[07-Dec-2017 05:22:14 UTC] PHP Stack trace:
+[07-Dec-2017 05:22:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 05:23:08 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 44
+[07-Dec-2017 05:23:08 UTC] PHP Stack trace:
+[07-Dec-2017 05:23:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 05:23:10 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 44
+[07-Dec-2017 05:23:10 UTC] PHP Stack trace:
+[07-Dec-2017 05:23:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 05:23:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 44
+[07-Dec-2017 05:23:19 UTC] PHP Stack trace:
+[07-Dec-2017 05:23:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 05:26:09 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 44
+[07-Dec-2017 05:26:09 UTC] PHP Stack trace:
+[07-Dec-2017 05:26:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 05:26:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 44
+[07-Dec-2017 05:26:11 UTC] PHP Stack trace:
+[07-Dec-2017 05:26:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 05:27:48 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/Final_Project/addUser.php on line 44
+[07-Dec-2017 05:27:48 UTC] PHP Stack trace:
+[07-Dec-2017 05:27:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/addUser.php:0
+[07-Dec-2017 07:06:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/Final_Project/update.php on line 106
+[07-Dec-2017 07:06:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/Final_Project/update.php on line 106
+[07-Dec-2017 07:06:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/Final_Project/update.php on line 106
+[07-Dec-2017 07:07:33 UTC] PHP Parse error:  syntax error, unexpected 'console_name' (T_STRING), expecting ']' in /home/ubuntu/workspace/cst336/Final_Project/index.php on line 29
+[07-Dec-2017 07:48:20 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:20 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:20 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:20 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:25 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:25 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:25 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:25 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:28 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:28 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:28 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:28 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:30 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:30 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:30 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:30 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:33 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:33 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:33 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:33 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:35 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:35 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:35 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:35 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:37 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:37 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:37 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:37 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:39 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:39 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:39 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:39 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:40 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:40 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:40 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:40 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:43 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:43 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:48:43 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 6
+[07-Dec-2017 07:48:43 UTC] PHP Stack trace:
+[07-Dec-2017 07:48:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:51:43 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 10
+[07-Dec-2017 07:51:43 UTC] PHP Stack trace:
+[07-Dec-2017 07:51:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:51:43 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 10
+[07-Dec-2017 07:51:43 UTC] PHP Stack trace:
+[07-Dec-2017 07:51:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:51:45 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 10
+[07-Dec-2017 07:51:45 UTC] PHP Stack trace:
+[07-Dec-2017 07:51:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:51:45 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 10
+[07-Dec-2017 07:51:45 UTC] PHP Stack trace:
+[07-Dec-2017 07:51:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:55:31 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 3
+[07-Dec-2017 07:55:31 UTC] PHP Stack trace:
+[07-Dec-2017 07:55:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:55:31 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 3
+[07-Dec-2017 07:55:31 UTC] PHP Stack trace:
+[07-Dec-2017 07:55:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:58:16 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 3
+[07-Dec-2017 07:58:16 UTC] PHP Stack trace:
+[07-Dec-2017 07:58:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:58:16 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 3
+[07-Dec-2017 07:58:16 UTC] PHP Stack trace:
+[07-Dec-2017 07:58:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:58:24 UTC] PHP Warning:  include(inc/userHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 3
+[07-Dec-2017 07:58:24 UTC] PHP Stack trace:
+[07-Dec-2017 07:58:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 07:58:24 UTC] PHP Warning:  include(): Failed opening 'inc/userHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/cart.php on line 3
+[07-Dec-2017 07:58:24 UTC] PHP Stack trace:
+[07-Dec-2017 07:58:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/cart.php:0
+[07-Dec-2017 08:18:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/Final_Project/delete.php:29
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/delete.php(29): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 29
+[07-Dec-2017 08:21:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/Final_Project/delete.php:29
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/delete.php(29): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/delete.php on line 29
+[07-Dec-2017 08:24:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/Final_Project/deletefile.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/deletefile.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/deletefile.php on line 12
+[07-Dec-2017 18:20:46 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 3
+[07-Dec-2017 18:20:46 UTC] PHP Stack trace:
+[07-Dec-2017 18:20:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:20:46 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 3
+[07-Dec-2017 18:20:46 UTC] PHP Stack trace:
+[07-Dec-2017 18:20:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:20:46 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 4
+[07-Dec-2017 18:20:46 UTC] PHP Stack trace:
+[07-Dec-2017 18:20:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:21:17 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 3
+[07-Dec-2017 18:21:17 UTC] PHP Stack trace:
+[07-Dec-2017 18:21:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:21:17 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 3
+[07-Dec-2017 18:21:17 UTC] PHP Stack trace:
+[07-Dec-2017 18:21:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:21:17 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 4
+[07-Dec-2017 18:21:17 UTC] PHP Stack trace:
+[07-Dec-2017 18:21:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:21:21 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 3
+[07-Dec-2017 18:21:21 UTC] PHP Stack trace:
+[07-Dec-2017 18:21:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:21:21 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 3
+[07-Dec-2017 18:21:21 UTC] PHP Stack trace:
+[07-Dec-2017 18:21:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:21:21 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 4
+[07-Dec-2017 18:21:21 UTC] PHP Stack trace:
+[07-Dec-2017 18:21:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:21:54 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 3
+[07-Dec-2017 18:21:54 UTC] PHP Stack trace:
+[07-Dec-2017 18:21:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:21:54 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 3
+[07-Dec-2017 18:21:54 UTC] PHP Stack trace:
+[07-Dec-2017 18:21:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:21:54 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 4
+[07-Dec-2017 18:21:54 UTC] PHP Stack trace:
+[07-Dec-2017 18:21:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:22:06 UTC] PHP Warning:  include(../../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 3
+[07-Dec-2017 18:22:06 UTC] PHP Stack trace:
+[07-Dec-2017 18:22:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:22:06 UTC] PHP Warning:  include(): Failed opening '../../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 3
+[07-Dec-2017 18:22:06 UTC] PHP Stack trace:
+[07-Dec-2017 18:22:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:22:06 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/tableDB.php on line 4
+[07-Dec-2017 18:22:06 UTC] PHP Stack trace:
+[07-Dec-2017 18:22:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/tableDB.php:0
+[07-Dec-2017 18:54:10 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/ubuntu/workspace/cst336/Final_Project/admin.php on line 49
+[07-Dec-2017 18:54:29 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /home/ubuntu/workspace/cst336/Final_Project/admin.php on line 58
+[07-Dec-2017 18:54:40 UTC] PHP Fatal error:  Cannot redeclare getDataBaseConnection() (previously declared in /home/ubuntu/workspace/cst336/dbConnection.php:3) in /home/ubuntu/workspace/cst336/dbConnection.php on line 3
+[07-Dec-2017 18:54:40 UTC] PHP Stack trace:
+[07-Dec-2017 18:54:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/admin.php:0
+[07-Dec-2017 18:54:40 UTC] PHP   2. displayUsers() /home/ubuntu/workspace/cst336/Final_Project/admin.php:121
+[07-Dec-2017 18:54:50 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/Final_Project/admin.php on line 51
+[07-Dec-2017 18:54:50 UTC] PHP Stack trace:
+[07-Dec-2017 18:54:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/admin.php:0
+[07-Dec-2017 18:54:50 UTC] PHP   2. games() /home/ubuntu/workspace/cst336/Final_Project/admin.php:74
+[07-Dec-2017 19:03:14 UTC] PHP Fatal error:  Call to undefined function games() in /home/ubuntu/workspace/cst336/Final_Project/admin.php on line 122
+[07-Dec-2017 19:03:14 UTC] PHP Stack trace:
+[07-Dec-2017 19:03:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/admin.php:0
+[07-Dec-2017 19:04:11 UTC] PHP Fatal error:  Call to undefined function games() in /home/ubuntu/workspace/cst336/Final_Project/admin.php on line 123
+[07-Dec-2017 19:04:11 UTC] PHP Stack trace:
+[07-Dec-2017 19:04:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/admin.php:0
+[07-Dec-2017 19:04:23 UTC] PHP Fatal error:  Call to undefined function games() in /home/ubuntu/workspace/cst336/Final_Project/admin.php on line 123
+[07-Dec-2017 19:04:23 UTC] PHP Stack trace:
+[07-Dec-2017 19:04:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/admin.php:0
+[07-Dec-2017 19:04:40 UTC] PHP Fatal error:  Call to undefined function games() in /home/ubuntu/workspace/cst336/Final_Project/admin.php on line 124
+[07-Dec-2017 19:04:40 UTC] PHP Stack trace:
+[07-Dec-2017 19:04:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/admin.php:0
+[07-Dec-2017 19:04:52 UTC] PHP Fatal error:  Call to undefined function games() in /home/ubuntu/workspace/cst336/Final_Project/admin.php on line 124
+[07-Dec-2017 19:04:52 UTC] PHP Stack trace:
+[07-Dec-2017 19:04:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/admin.php:0
+[07-Dec-2017 19:08:30 UTC] PHP Fatal error:  Call to undefined function games() in /home/ubuntu/workspace/cst336/Final_Project/admin.php on line 124
+[07-Dec-2017 19:08:30 UTC] PHP Stack trace:
+[07-Dec-2017 19:08:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/admin.php:0
+[07-Dec-2017 21:13:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list'' in /home/ubuntu/workspace/cst336/Final_Project/retrieveUserDB.php:6
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/retrieveUserDB.php(6): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/retrieveUserDB.php on line 6
+[07-Dec-2017 21:14:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list'' in /home/ubuntu/workspace/cst336/Final_Project/retrieveUserDB.php:6
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/retrieveUserDB.php(6): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/retrieveUserDB.php on line 6
+[07-Dec-2017 21:14:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list'' in /home/ubuntu/workspace/cst336/Final_Project/retrieveUserDB.php:6
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/retrieveUserDB.php(6): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/retrieveUserDB.php on line 6
+[07-Dec-2017 21:28:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/Final_Project/update.php on line 106
+[07-Dec-2017 21:49:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1226 User 'b3db65c6ab633e' has exceeded the 'max_questions' resource (current value: 3600)' in /home/ubuntu/workspace/cst336/Final_Project/index.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/index.php(12): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Final_Project/index.php(100): table()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/index.php on line 12
+[07-Dec-2017 21:55:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1226 User 'b3db65c6ab633e' has exceeded the 'max_questions' resource (current value: 3600)' in /home/ubuntu/workspace/cst336/Final_Project/index.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/index.php(12): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Final_Project/index.php(100): table()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/index.php on line 12
+[07-Dec-2017 21:56:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1226 User 'b3db65c6ab633e' has exceeded the 'max_questions' resource (current value: 3600)' in /home/ubuntu/workspace/cst336/Final_Project/index.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/index.php(12): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Final_Project/index.php(100): table()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/index.php on line 12
+[07-Dec-2017 21:56:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1226 User 'b3db65c6ab633e' has exceeded the 'max_questions' resource (current value: 3600)' in /home/ubuntu/workspace/cst336/Final_Project/index.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/Final_Project/index.php(12): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/Final_Project/index.php(100): table()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/Final_Project/index.php on line 12
+[08-Dec-2017 05:06:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/Final_Project/update.php on line 101
+[08-Dec-2017 05:08:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/Final_Project/update.php on line 81
+[08-Dec-2017 05:18:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/Final_Project/update.php on line 72
+[08-Dec-2017 05:20:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/Final_Project/update.php on line 72
+[08-Dec-2017 05:20:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/Final_Project/update.php on line 72
+[08-Dec-2017 05:31:43 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/ubuntu/workspace/cst336/Final_Project/low.php on line 10
+[08-Dec-2017 05:31:43 UTC] PHP Stack trace:
+[08-Dec-2017 05:31:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/low.php:0
+[08-Dec-2017 05:31:43 UTC] PHP   2. table() /home/ubuntu/workspace/cst336/Final_Project/low.php:36
+[08-Dec-2017 05:33:09 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/ubuntu/workspace/cst336/Final_Project/low.php on line 9
+[08-Dec-2017 05:33:09 UTC] PHP Stack trace:
+[08-Dec-2017 05:33:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/low.php:0
+[08-Dec-2017 05:33:09 UTC] PHP   2. table() /home/ubuntu/workspace/cst336/Final_Project/low.php:34
+[08-Dec-2017 06:47:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/Final_Project/update.php on line 72

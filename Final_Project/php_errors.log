@@ -1,0 +1,6 @@
+[05-Dec-2017 09:15:40 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/Final_Project/inc/admin.php on line 2
+[05-Dec-2017 09:15:40 UTC] PHP Stack trace:
+[05-Dec-2017 09:15:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/inc/admin.php:0
+[05-Dec-2017 09:15:40 UTC] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/Final_Project/inc/admin.php on line 2
+[05-Dec-2017 09:15:40 UTC] PHP Stack trace:
+[05-Dec-2017 09:15:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Final_Project/inc/admin.php:0

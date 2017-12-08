@@ -1,5 +1,7 @@
 <?php
 session_start();
+include'../dbConnection.php';
+$conn=getDatabaseConnection();
 if(!isset($_SESSION['username'])) // validates that the admin is logged in
 {
     header("Location: index.php");
